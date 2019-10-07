@@ -1,0 +1,4 @@
+.activeClass {
+    /* 为了防止覆盖，加上!important  */
+    color: red !important;
+}
