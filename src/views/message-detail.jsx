@@ -27,3 +27,8 @@ export default function MessageDetail(props) {
     )
 
 }
+
+
+// 如果使用class定义组件，则读取id为方法有：
+//  const {id} = this.props.match.params
+//  const id = this.props.match.params.id
